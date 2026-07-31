@@ -216,22 +216,27 @@ The **Kvasir-SEG** dataset is distributed under **CC BY-NC 4.0**. Please refer t
 
 ---
 
-# 👨‍💻 Authors
+# 👨‍💻 Repository Maintainer
 
-**S.M Ashraful Zaman (Raffi Zaman)**
+**S. M. Ashraful Zaman (Raffi Zaman)**
 
-**Ahanaf Ibnat Abani**
+Department of Computer Science and Engineering  
+Bangladesh University of Business and Technology (BUBT)
 
-**Surovi Rani**
+---
 
-**Md Shariful Islam**
+# 📄 Paper Authors
 
-**Md. Darun Nayeem**
+- **S. M. Ashraful Zaman**
+- **Ahanaf Ibnat Abani**
+- **Surovi Rani**
+- **Md. Shariful Islam**
+- **Md. Darun Nayeem**
+- **Muhammad Aminur Rahaman**
 
-**Muhammad Aminur Rahaman**
+**Affiliation**
 
-Department of Computer Science and Engineering
-
+Department of Computer Science and Engineering  
 Bangladesh University of Business and Technology (BUBT)
 
 ---

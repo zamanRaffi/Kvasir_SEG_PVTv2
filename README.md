@@ -145,8 +145,6 @@ Grad-CAM is employed to visualize the discriminative regions used by the model d
 git clone https://github.com/zamanRaffi/pvt-v2-b2-fpn-polyp-segmentation.git
 
 cd pvt-v2-b2-fpn-polyp-segmentation
-
-pip install -r requirements.txt
 ```
 
 ---
@@ -220,7 +218,7 @@ The **Kvasir-SEG** dataset is distributed under **CC BY-NC 4.0**. Please refer t
 
 # 👨‍💻 Authors
 
-**S. M. Ashraful Zaman (Raffi Zaman)**
+**S.M Ashraful Zaman (Raffi Zaman)**
 
 **Ahanaf Ibnat Abani**
 
